@@ -1,0 +1,19 @@
+# Core dependencies
+crawl4ai
+requests
+beautifulsoup4
+pytube
+youtube-transcript-api
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+
+# CLI interface
+click
+rich
+
+# Utilities
+tqdm
+python-dotenv
+pyyaml
